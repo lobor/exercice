@@ -1,0 +1,14 @@
+body {
+	margin: 0px;
+	padding: 10px;
+	box-sizing: content-box;
+}
+
+#todolist {
+	font-family: Helvetica;
+	font-size: 14px;
+}
+
+#todolist input {
+  box-sizing: border-box;
+}
